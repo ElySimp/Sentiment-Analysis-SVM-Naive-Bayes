@@ -79,6 +79,8 @@ target/
 .ipynb_checkpoints
 test.ipynb
 test2.ipynb
+desc.ipynb
+LSTM-BERT.ipynb
 
 # IPython
 profile_default/
